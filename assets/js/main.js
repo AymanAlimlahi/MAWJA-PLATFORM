@@ -2,9 +2,9 @@
    FORM_ENDPOINT: paste a Formspree (or similar) URL here once the site is hosted, e.g. "https://formspree.io/f/xxxxxx".
    Left empty, the form opens the visitor's email app with the message pre-filled. */
 var FORM_ENDPOINT = "";
-var CONTACT_EMAIL = "m.elalaoui@mawjaagency.com";
+var CONTACT_EMAIL = "contact@mawjaagency.com";
 /* WHATSAPP_NUMBER: international format, digits only, no + or spaces (e.g. 212612345678). */
-var WHATSAPP_NUMBER = "212600000000";
+var WHATSAPP_NUMBER = "212693490335";
 
 (function(){
   var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
